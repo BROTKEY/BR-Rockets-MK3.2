@@ -1,0 +1,39 @@
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 405:Plugin executed on: 'win32'
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 406:Plugin executed with python version: '3.9.14 (main, Sep 19 2022, 05:11:57) [MSC v.1932 64 bit (AMD64)]'
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 407:KiCad build version: (6.0.9)
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 408:Plugin version: 1.2.11
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Frame repr: <wx._core.Frame object at 0x0000020370C7AC10>
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R3 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint L2 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint L1 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC5 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC4 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC3 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC2 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC1 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C3 on root level
+02-23 22:53:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C1 on root level
+02-23 22:53:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 586:Reference designator is: IC
+02-23 22:53:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 587:Reference number is: 2
+02-23 22:53:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 619:Sorted and filtered list:
+['IC1', 'IC2', 'IC3', 'IC4', 'IC5']
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 657:Footprints to place:
+['IC1', 'IC2', 'IC3', 'IC4', 'IC5']
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 314:Starting placing with circular layout
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 324:reference footprint position at: wxPoint(172830000, 103625000)
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 329:rotation center at: (172830000, 123625000.0)
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.place_footprints 434:Text of: IC2 has property "Keep upright" rotation might not look as intended
+02-23 22:54:07 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 672:Placing complete
