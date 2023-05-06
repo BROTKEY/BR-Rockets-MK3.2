@@ -1,4 +1,4 @@
-21456549642155978
+21471645155787397
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -82432,6 +82432,62 @@ rotary encoder
 7
 6
 SamacSys_Parts
+BMP390
+BMP390
+Integrated Circuit
+0
+10
+10
+SamacSys_Parts
+CAPC2114X145N
+0805/2012_H=1.45mm
+Capacitor
+0
+2
+2
+SamacSys_Parts
+CAPC3216X180N
+MK316 (1206)
+Capacitor
+0
+2
+2
+SamacSys_Parts
+ECS327MVATX2CNTR3
+ECS-327MVATX-2-CN-TR3-1
+Crystal or Oscillator
+0
+4
+4
+SamacSys_Parts
+ERJP06__0805_
+ERJP06_(0805)
+Resistor
+0
+2
+2
+SamacSys_Parts
+ESP32S2MINI2N4R2
+ESP32-S2-MINI-2-N4R2-2
+Integrated Circuit
+0
+73
+73
+SamacSys_Parts
+ESP32S2MINI2UN4
+15.4 × 15.4 × 2.4mm
+Integrated Circuit
+0
+73
+73
+SamacSys_Parts
+INDC2012X145N
+CBC2012T2R2M
+Inductor
+0
+2
+2
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -82439,19 +82495,33 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
-QFN40P700X700X90-57N-D
-QFN56 (7×7 mm) Package
+QFN50P300X250X87-14N
+BMI270
 Integrated Circuit
 0
-57
-57
+14
+14
 SamacSys_Parts
-RESC2012X60N
-CR0805_1-41
-Resistor
+QFN50P500X500X90-33N-D
+32-pin QFN
+Integrated Circuit
 0
-2
-2
+33
+33
+SamacSys_Parts
+SOT95P284X119-5N
+5-LEAD SOT23-5
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts
+SOTFL65P210X75-6N
+sot365
+MOSFET (N-Channel)
+0
+6
+6
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -89599,10 +89669,3 @@ varistor
 0
 2
 2
-custom
-TDFN-8-1EP_3x2mm_P0.5mm
-
-
-0
-0
-0

@@ -1,0 +1,37 @@
+Solid Edge in 3MF konvertieren
+Datum: Saturday,May 06,2023 08:53PM
+Ausgabedatei: H:\BR-Rockets-MK3.2\CAD\Bodytube.3mf
+Autor: Unknown
+Organisation: Unknown
+Ausgangssystem: SOLID EDGE
+
+Hardware:
+Prozessor: 13th Gen Intel(R) Core(TM) i7-13700K
+Betriebssystem: Windows 10 Professional
+Installierter Speicher: 31.78 GB
+
+Software-Informationen:
+Parasolid-Version: 34.0.153
+PSBodyshop-Version: 34.0.110
+3MF-Adapterversion:9.0.87
+Solid Edge-Version: 222.00.00.132 x64
+
+3MF-Exportoptionen
+Konstruktionsvolumen exportieren: Aus
+Angezeigte Teile exportieren: Aus
+Protokollierung aktivieren:Ein
+AllowInvalid3mfObjects:Aus
+Reduzierte Baugruppe exportieren:On
+Einheiten exportieren:Millimeters
+Toleranzwert exportieren:0.001000
+Toleranztyp exportieren:Custom
+Flächenplanwinkelwert exportieren:0.017453
+Autor exportieren:Unknown
+Beschreibung exportieren:Unknown
+Organisation exportieren:Unknown
+Programmname exportieren:Unknown
+
+Konvertierungsfortschritt:
+Phase 1 von 1 - Parasolid in Fremddatentypen konvertieren...
+Konvertierungsvorgang ist abgeschlossen
+Zum Konvertieren benötigte Zeit:00 : 00 : 00
